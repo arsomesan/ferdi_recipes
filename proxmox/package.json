@@ -1,0 +1,17 @@
+{
+  "id": "proxmox",
+  "name": "ProxMox",
+  "version": "1.0.0",
+  "description": "My Ferdi Recipe for Home Assistant",
+  "main": "index.js",
+  "author": "BrianFarmer <som.adrian@gmail.com>",
+  "repository": "https://github.com/BrianFarmer/ferdi-recipes",
+  "license": "MIT",
+  "aliases": [
+    "proxmox"
+  ],
+  "config": {
+    "serviceURL": "https://proxmox.local:8006",
+    "hasCustomUrl": "true"
+  }
+}
