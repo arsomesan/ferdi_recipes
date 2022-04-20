@@ -1,3 +1,6 @@
-#My Custom Ferdi Recipes
+# My Custom Ferdi Recipes
 
--ProxMox Recipe
+- ProxMox Recipe
+- Portainer
+- PiHole
+- Dashmachine
