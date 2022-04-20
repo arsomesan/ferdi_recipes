@@ -1,0 +1,17 @@
+{
+  "id": "dashmachine",
+  "name": "Dashmachine",
+  "version": "1.0.0",
+  "description": "My Ferdi Recipe for Dashmachine",
+  "main": "index.js",
+  "author": "BrianFarmer <som.adrian@gmail.com>",
+  "repository": "https://github.com/BrianFarmer/ferdi-recipes",
+  "license": "MIT",
+  "aliases": [
+    "dashmachine"
+  ],
+  "config": {
+    "serviceURL": "http://dashmachine.local:5000",
+    "hasCustomUrl": "true"
+  }
+}

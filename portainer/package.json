@@ -1,0 +1,17 @@
+{
+  "id": "portainer",
+  "name": "Portainer",
+  "version": "1.0.0",
+  "description": "My Ferdi Recipe for Portainer",
+  "main": "index.js",
+  "author": "BrianFarmer <som.adrian@gmail.com>",
+  "repository": "https://github.com/BrianFarmer/ferdi-recipes",
+  "license": "MIT",
+  "aliases": [
+    "portainer"
+  ],
+  "config": {
+    "serviceURL": "https://portainer.local:9443",
+    "hasCustomUrl": "true"
+  }
+}

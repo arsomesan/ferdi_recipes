@@ -1,0 +1,17 @@
+{
+  "id": "pihole",
+  "name": "PiHole",
+  "version": "1.0.0",
+  "description": "My Ferdi Recipe for PiHole Web Client",
+  "main": "index.js",
+  "author": "BrianFarmer <som.adrian@gmail.com>",
+  "repository": "https://github.com/BrianFarmer/ferdi-recipes",
+  "license": "MIT",
+  "aliases": [
+    "pihole"
+  ],
+  "config": {
+    "serviceURL": "http://pihole.local:80/admin",
+    "hasCustomUrl": "true"
+  }
+}
