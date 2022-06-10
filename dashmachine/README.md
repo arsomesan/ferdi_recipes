@@ -1,4 +1,4 @@
-# Home Proxmox for Ferdi
+# Dashmachine for Ferdi
 
 This is an unofficial Ferdi recipe for [Dashmachine](https://github.com/rmountjoy92/DashMachine). <br>
 Made by [BrianFarmer](https://somesan.net)
