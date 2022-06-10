@@ -1,4 +1,4 @@
-# Home Proxmox for Ferdi
+# Portainer for Ferdi
 
 This is an unofficial Ferdi recipe for [Portainer](https://www.portainer.io/). <br>
 Made by [BrianFarmer](https://somesan.net)
