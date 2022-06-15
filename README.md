@@ -4,3 +4,4 @@
 - Portainer
 - PiHole
 - Dashmachine
+- Navidrome
