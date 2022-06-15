@@ -1,0 +1,17 @@
+{
+  "id": "navidrome",
+  "name": "Navidrome",
+  "version": "1.0.0",
+  "description": "My Ferdi Recipe for Navidrome",
+  "main": "index.js",
+  "author": "BrianFarmer <som.adrian@gmail.com>",
+  "repository": "https://github.com/BrianFarmer/ferdi-recipes",
+  "license": "MIT",
+  "aliases": [
+    "navidrome"
+  ],
+  "config": {
+    "serviceURL": "https://navidrome.local:4533",
+    "hasCustomUrl": "true"
+  }
+}
