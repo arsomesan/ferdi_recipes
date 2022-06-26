@@ -5,3 +5,6 @@
 - PiHole
 - Dashmachine
 - Navidrome
+
+More coming soon...
+also bugging in linux
