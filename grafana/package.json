@@ -1,0 +1,17 @@
+{
+  "id": "grafana",
+  "name": "Grafana",
+  "version": "1.0.0",
+  "description": "My Ferdi Recipe for Grafana",
+  "main": "index.js",
+  "author": "BrianFarmer <som.adrian@gmail.com>",
+  "repository": "https://github.com/BrianFarmer/ferdi-recipes",
+  "license": "MIT",
+  "aliases": [
+    "grafana"
+  ],
+  "config": {
+    "serviceURL": "http://grafana.local:3000",
+    "hasCustomUrl": "true"
+  }
+}
